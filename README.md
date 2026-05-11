@@ -36,7 +36,7 @@ My work spans predictive modeling, reinforcement learning, explainable AI, forec
 ### 🎓 Education
 MSc Data Science (Integrated)  
 Amrita Vishwa Vidyapeetham  
-CGPA: 8.18
+CGPA: 8.22
 
 </td>
 <td width="50%">

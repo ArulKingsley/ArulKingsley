@@ -72,15 +72,6 @@ M.Sc Data Science (Integrated) student @ Amrita Vishwa Vidyapeetham, Coimbatore.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![](https://github-profile-trophy.vercel.app/?username=ArulKingsley&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 Contribution Graph
-
-[![Arul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArulKingsley&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

@@ -15,7 +15,6 @@
 M.Sc Data Science (Integrated) student @ Amrita Vishwa Vidyapeetham, Coimbatore. I build solutions at the intersection of AI/ML, forecasting, and full-stack engineering.
 
 - 🔭 Currently working on **Hybrid RNN Stability Analysis** and **RL Regime Adaptation**
-- 🧠 Deep into **Uncertainty-Aware Feature Selection (UDIFS)**
 - 💼 Ex-Intern: **SAP Analytics Cloud & BTP @ Altrocks Tech**
 - 🎯 Ask me about **XGBoost, SHAP, FastAPI, RL Agents, Text-to-SQL**
 - 🏆 Chief Organizer of **Hacktide** — 250+ participants
